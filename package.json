@@ -1,7 +1,7 @@
 {
   "name": "toggle-alarm",
   "federated-module-name": "ToggleAlarm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Toggle button for Alarm System",
   "main": "index.js",
   "scripts": {

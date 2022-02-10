@@ -37,7 +37,7 @@ const ToggleAlarm = ({device, http, tile, mqtt, useHttp, useMqtt, useMqttSub}) =
             <span 
                 onClick={() => handleClick()} 
                 style={style} 
-                className="tile-icon material-icons f75"
+                className="tile-icon material-icons f125"
             >{icon_name}</span>
             <p style={{color: style.color}}>{txt}</p>
         </div>
